@@ -9,7 +9,7 @@ public class Parent {
     System.out.println(car2.getColor());
     System.out.println(car2.getDoor());
 
-    System.out.println("This is the Car II :"+car2.getName());
+    System.out.println("This is the Car I :"+car1.getName());
     System.out.println(car1.getModel());
     System.out.println(car1.getColor());
     System.out.println(car1.getDoor());
