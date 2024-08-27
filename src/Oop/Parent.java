@@ -16,7 +16,6 @@ public class Parent {
     System.out.println(car1.getModel());
     System.out.println(car1.getColor());
     System.out.println(car1.getDoor());
-    car1.stop();
 
 
   }
@@ -34,5 +33,6 @@ class plane{
     this.door = door;
     this.engine = engine;
   }
+
 }
 
